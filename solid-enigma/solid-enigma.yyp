@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "33986c21-f3ed-4de8-8ecd-22aca5f69ab5",
+            "Value": {
+                "id": "fb7aafeb-5210-45a6-bdef-4b06c306bb47",
+                "resourcePath": "objects\\startButton\\startButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "34bf6257-3f37-45f1-9f9d-9bce4cd8f0d8",
             "Value": {
                 "id": "c702eac0-1b96-4898-bb0c-e3cc81876412",
@@ -55,11 +63,35 @@
             }
         },
         {
+            "Key": "62d94a1a-90d4-4dee-9e24-bd62bc6c62ed",
+            "Value": {
+                "id": "fc412378-b823-40d6-9d83-3803298038d5",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6bd60705-4cf4-450a-ac1a-7f977eefea91",
+            "Value": {
+                "id": "e970f708-ebb5-44cd-90ce-22931aac37a4",
+                "resourcePath": "rooms\\WorldMapRoom\\WorldMapRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6f60d565-14bc-4547-bcce-a5a0ec0b9e45",
             "Value": {
                 "id": "647d4e2a-80fb-4958-ae2c-3f208e3c0ce4",
                 "resourcePath": "views\\6f60d565-14bc-4547-bcce-a5a0ec0b9e45.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "736b835e-f1a4-41b6-a30d-e572f1bdf240",
+            "Value": {
+                "id": "c40901c4-a491-49b9-a925-906bc74fe59e",
+                "resourcePath": "rooms\\LoadingRoom\\LoadingRoom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -82,8 +114,16 @@
             "Key": "85817ae6-4d27-45bb-9dd5-31ee4eef4191",
             "Value": {
                 "id": "fe70ab8b-d9bc-4a9f-929a-7fa437d8b7e4",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\StartMenuRoom\\StartMenuRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8a7ed231-183c-4650-8f90-3192d1a2b3f0",
+            "Value": {
+                "id": "01700795-8df7-44be-98b2-d98c4b4b168d",
+                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -108,6 +148,14 @@
                 "id": "4a96ed03-98c7-4909-b970-b6f64ea8f556",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ace536d4-c3cf-41c5-ae4a-f7662a259f82",
+            "Value": {
+                "id": "aa31f430-3a9f-4e8a-beea-aaaa5d1cc500",
+                "resourcePath": "objects\\Loading\\Loading.yy",
+                "resourceType": "GMObject"
             }
         },
         {
